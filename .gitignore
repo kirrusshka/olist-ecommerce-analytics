@@ -1,0 +1,14 @@
+# Локальное окружение и служебные файлы
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+.env
+.env.*
+!.env.example
+# Исходные таблицы Olist и временные файлы
+archive/
+data/raw/
+*.csv
+.DS_Store
+.vscode/
